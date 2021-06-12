@@ -1,0 +1,6 @@
+.blogContainer{
+    display:flex;
+    flex-direction: column;
+    padding:10px;
+    margin-top:100px;
+}

@@ -1,0 +1,25 @@
+
+.heading1{
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--dark-grey-blue);
+}
+.heading2{
+font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--dark-grey-blue);
+}
+.cardImg{
+  width:245px;
+  margin:2px 20px;
+}

@@ -1,0 +1,79 @@
+
+.headingContainer{
+    margin-top:100px;
+    display:flex;
+    justify-content: space-between;
+}
+.leftsection{
+    width:43%;
+    display:flex;
+    flex-direction: column;
+    
+}
+.heading1{
+  font-family: LibreBaskerville;
+  font-size: 56px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.32;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--dark-grey-blue);
+  margin-top:0px;
+  margin-bottom: 0px;
+}
+.heading2 {
+    font-family: serif;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-grey-blue);
+    margin-bottom:0px;
+  }
+  .heading3{
+    width: 389px;
+    height: 54px;
+    margin: 35px 175px 35px 0;
+    font-family: LibreBaskerville;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-grey-blue);
+  }
+  
+  .enquireBtn{
+        margin-top:40px;    
+        width:220px;
+        height:30px;
+        padding:10px;
+        text-align: center;
+        border-radius: 10px;
+        background-color: var(--aqua-blue);
+     
+  }
+  a{
+      color:white;
+      text-decoration: none;
+  }
+
+  .right-section{
+      display:flex;
+  }
+  .rectangleBox{
+    width: 350px;
+    height: 340px;
+    padding: 64.5px 65.3px 65px 66px;
+    border: solid 3px var(--aqua-blue);
+    background:url(../../assets/img/two.png) no-repeat;
+    background-position: center;
+    
+  }

@@ -1,0 +1,13 @@
+:root{
+    --pale-blue: #f1fefe;  
+    --secondaryColor : #F24968;
+    --greyColor: rgba(196, 196, 196, 1);
+  }
+  
+.topSection{
+        height: 500px;
+        margin: 0 0 99.4px;
+        padding: 18.5px 117px 106px 139px;
+        background-image: linear-gradient(to bottom, var(--pale-blue), rgba(241, 254, 254, 0));
+      
+}

@@ -1,0 +1,7 @@
+.cardBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:23px 44px;
+    margin-top:30px;
+}

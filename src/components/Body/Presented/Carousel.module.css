@@ -1,0 +1,17 @@
+.sliderBox{
+    display:block;
+    margin:70px auto;
+    width:80%;
+  
+}
+.carouselItem{
+   margin-left:5px;
+   display:flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   
+}
+.carouselImg{
+    width:100px;
+}

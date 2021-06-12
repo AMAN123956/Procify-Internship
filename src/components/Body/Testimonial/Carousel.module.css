@@ -1,0 +1,49 @@
+.sliderBox{
+    display:block;
+    margin:70px auto;
+    width:80%;
+  
+}
+.carouselItem{
+   display:flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.carouselTopImg{
+    display:block;
+    width:50px;
+    margin:10px auto;
+    margin-bottom: 30px;
+}
+.carouselImg{
+    display:block;
+    margin:10px auto;
+    border-radius:100%;
+    width:80px;
+    height:80px;
+}
+/* Heading Text */
+.heading1{
+    font-size: 26px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #374b5c;
+}
+.heading2{
+    width:52%;
+    display:block;
+    margin:2px auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+}

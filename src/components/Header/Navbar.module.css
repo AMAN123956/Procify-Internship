@@ -1,0 +1,11 @@
+.mainNavbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.rightSection{
+    display:flex;
+}
+li{
+    list-style: none;
+}
