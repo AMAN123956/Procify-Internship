@@ -1,8 +1,8 @@
-import styles from './Navbar'
+import styles from './Navbar.module.css'
 import logoImg from '../../assets/img/logo.png'
 function Navbar() {
     return (
-        <Navbar className={styles.mainNavbar}>
+        <div className={styles.mainNavbar}>
             <div className={styles.leftSection}>
                 <img src={logoImg} className={styles.logoImg} alt="logo_img"/>
             </div>
@@ -13,7 +13,7 @@ function Navbar() {
                 <li>About Us</li>
                 <li>Contact Us</li>
             </div>
-        </Navbar>
+        </div>
     )
 }
 
