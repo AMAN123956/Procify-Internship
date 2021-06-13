@@ -1,0 +1,27 @@
+.orgainicBox{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+}
+.logoSection{
+    margin-top:30px;
+}
+.contentSection{
+  margin-top:30px;
+  width:80%;
+  font-size: 0.875rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.79;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.dashedLine{
+    margin-top:40px;
+    width:90px;
+    border:2px solid var(--aqua-blue)
+}

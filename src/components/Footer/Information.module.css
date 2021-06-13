@@ -1,0 +1,35 @@
+.informationBox{
+    display:flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    padding:10px;
+}
+.heading1{
+    font-size: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    margin-top:30px;
+    margin-bottom: 10px;
+}
+.heading2{
+    margin-top:12px;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.dashedLine{
+    width:50px;
+     margin-bottom: 20px;
+    border:2px solid var(--aqua-blue)
+}

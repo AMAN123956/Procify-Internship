@@ -1,0 +1,21 @@
+.socialBox{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:10px;
+    margin-left:10%;
+}
+.heading1{
+    font-size: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.dashedLine{
+    width:50px;
+    border:2px solid var(--aqua-blue)
+}
