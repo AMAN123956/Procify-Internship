@@ -23,9 +23,9 @@ function Heading() {
             </div>
 
             {/* Right Section */}
-            <div className={styles.rightsection}>
+            <div className={styles.rightSection}>
                 <div className={styles.rectangleBox}>
-                   <img  />
+                   <img src={flowerImg} className={styles.flowerImg} />
                 </div>
             </div>
         </div>

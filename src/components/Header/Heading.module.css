@@ -65,15 +65,25 @@
       text-decoration: none;
   }
 
-  .right-section{
+  .rightSection{
       display:flex;
+      background-color: #ffffff;
+     
+      padding:20px;
   }
   .rectangleBox{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
     width: 350px;
     height: 340px;
-    padding: 64.5px 65.3px 65px 66px;
+   
     border: solid 3px var(--aqua-blue);
     background:url(../../assets/img/two.png) no-repeat;
     background-position: center;
-    
+  }
+  .flowerImg{
+   width:300px;
+   margin-left:-35%;
+   margin-top:-3%;
   }
